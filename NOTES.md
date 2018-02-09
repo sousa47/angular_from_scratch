@@ -1,4 +1,4 @@
-#My Notes 
+# My Notes 
 
 npm install -g @angular/cli
 install angular globally
